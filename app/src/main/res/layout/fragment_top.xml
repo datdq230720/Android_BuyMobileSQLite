@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+<!--    <TextView-->
+<!--        android:id="@+id/textView5"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:gravity="center"-->
+<!--        android:textSize="20dp"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:layout_marginBottom="20dp"-->
+<!--        android:text="Danh sách 10 điện thoại bán chạy nhất" />-->
+
+<!--    <ListView-->
+<!--        android:id="@+id/tk_lv"-->
+<!--        android:divider="@android:color/transparent"-->
+<!--        android:dividerHeight="10.0sp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="650dp" />-->
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/my_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@color/white"/>
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/my_view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="650dp"
+        android:layoutDirection="ltr"/>
+
+
+</LinearLayout>

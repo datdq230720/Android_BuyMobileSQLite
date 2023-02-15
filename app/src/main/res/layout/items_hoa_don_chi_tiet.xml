@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bd_item"
+    android:padding="10dp"
+    android:layout_margin="10dp">
+
+    <ImageView
+        android:id="@+id/items_hdct_iv"
+        android:layout_width="181dp"
+        android:layout_height="79dp"
+        android:layout_weight="1"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <LinearLayout
+        android:padding="5dp"
+        android:layout_width="322dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/items_hdct_tv_tendt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:fontFamily="@font/poppins"
+            android:text="Glaxy note 7"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/items_hdct_tv_sl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:fontFamily="@font/poppins"
+            android:text="Số lượng: " />
+
+        <TextView
+            android:id="@+id/items_hdct_tv_giaTien"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:fontFamily="@font/poppins"
+            android:text="Tổng tiền: "
+            android:textColor="@color/green" />
+    </LinearLayout>
+
+    <Button
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:id="@+id/items_hdct_bt"
+        android:layout_width="49dp"
+        android:layout_gravity="bottom"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_delete" />
+</LinearLayout>

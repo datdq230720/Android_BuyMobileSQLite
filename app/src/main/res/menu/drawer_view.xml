@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_quanly"
+            android:enabled="true"
+            android:icon="@drawable/ic_hd"
+            android:title="Quản lý hóa đơn" />
+        <item
+            android:id="@+id/action_qlHang"
+            android:enabled="true"
+            android:icon="@drawable/ic_hangdt"
+            android:title="Quản lý hãng điện thoại" />
+        <item
+            android:id="@+id/action_qlDt"
+            android:enabled="true"
+            android:icon="@drawable/ic_phone"
+            android:title="Quản lý sản phảm" />
+        <item
+            android:id="@+id/action_qlThanhVien"
+            android:enabled="true"
+            android:icon="@drawable/ic_user"
+            android:title="Quản lý nhân viên" />
+
+        <item android:title="Thống kê">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/action_tMuon"
+                        android:enabled="true"
+                        android:icon="@drawable/ic_top"
+                        android:title="Top 10" />
+                    <item
+                        android:id="@+id/action_doanhThu"
+                        android:enabled="true"
+                        android:icon="@drawable/ic_money"
+                        android:title="Doanh thu" />
+                </group>
+            </menu>
+        </item>
+        <item android:title="Người dùng">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/action_doiPass"
+                        android:enabled="true"
+                        android:icon="@drawable/ic_key"
+                        android:title="Đổi mật khẩu" />
+                    <item
+                        android:id="@+id/action_logout"
+                        android:enabled="true"
+                        android:icon="@drawable/ic_logout"
+                        android:title="Đăng xuất" />
+                </group>
+            </menu>
+        </item>
+    </group>
+</menu>

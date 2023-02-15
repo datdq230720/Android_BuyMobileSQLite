@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bd_diag"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="@color/black"
+        android:text="Hãng điện thoại" />
+
+    <LinearLayout
+        android:background="@drawable/boder"
+        android:padding="20dp"
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/hang_diag_ed_ten"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/bd_view"
+            android:ems="10"
+            android:hint="Tên hãng điện thoại: "
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:textSize="25dp" />
+
+
+        <ImageView
+            android:id="@+id/hang_diag_iv"
+            android:layout_width="150dp"
+            android:layout_gravity="center"
+            android:layout_height="120dp"
+            android:src="@drawable/img_1"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/hang_diag_bt_save"
+            android:layout_margin="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/bd_bt_blue_teal"
+            android:text="Save" />
+
+        <Button
+            android:id="@+id/hang_diag_bt_reset"
+            android:layout_margin="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/bd_bt"
+            android:text="Reset" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CaoDangFPT/DuAn1/DuAn1giaodienmoi/app/src/main/res/layout/fragment_dien_thoai.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/bd_bt.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/bd_bt_green.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/bd_diag.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/bd_item.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/bd_view.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/boder.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/br_item.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/ic_add_circle.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/ic_hangdt.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/ic_top.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/ic_user.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/drawable/trans_set.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/activity_forgot_pass.xml" value="0.22" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/activity_splash_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/diablog_dien_thoai.xml" value="0.1554054054054054" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/diablog_hang.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/diablog_hoa_don.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/diablog_hoa_don_chi_tiet.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/diablog_nhan_vien.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/fragment_dien_thoai.xml" value="0.1" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/fragment_doanh_thu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.22" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/fragment_hang.xml" value="0.1" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/fragment_hoa_don.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/fragment_nhan_vien.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/fragment_top.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/items_dien_thoai.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/items_hang.xml" value="0.22" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/items_hoa_don.xml" value="0.22" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/items_hoa_don_chi_tiet.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/items_hoa_don_chi_tiet2.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/items_nhan_vien.xml" value="0.22" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/items_spinner_dien_thoai.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/items_spinner_hang.xml" value="0.1554054054054054" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/items_top.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/layout_navigation_header.xml" value="0.1" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/layout/layout_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/menu/drawer_view.xml" value="0.1796875" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1/app/src/main/res/menu/menu_popup.xml" value="0.1554054054054054" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/drawable/bd_bt.xml" value="0.16936936936936936" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/drawable/bd_bt_blue_teal.xml" value="0.16936936936936936" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/drawable/bd_diag.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/drawable/bd_item.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/drawable/bd_view.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/drawable/boder.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/drawable/br_trans.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/drawable/ic_add_circle.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/drawable/shadow.xml" value="0.1671111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/font/doublefeature_bold.xml" value="0.1791111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/font/nunito.xml" value="0.1791111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/font/poppins.xml" value="0.1791111111111111" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/activity_forgot_pass.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/activity_login.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/activity_main.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/activity_splash_screen.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/diablog_dien_thoai.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/diablog_hang.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/diablog_hoa_don.xml" value="0.22" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/diablog_hoa_don_chi_tiet.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/diablog_nhan_vien.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/fragment_dien_thoai.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/fragment_doanh_thu.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/fragment_hang.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/fragment_hoa_don.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/fragment_nhan_vien.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/fragment_top.xml" value="0.12907608695652173" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/items_dien_thoai.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/items_hang.xml" value="0.22" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/items_hoa_don.xml" value="0.33101851851851855" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/items_hoa_don_chi_tiet.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/items_hoa_don_chi_tiet2.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/items_nhan_vien.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/items_spinner_dien_thoai.xml" value="0.12907608695652173" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/items_spinner_hang.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/items_top.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/items_top_nv.xml" value="0.4190231362467866" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/layout_navigation_header.xml" value="0.13451086956521738" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/layout_toolbar.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/tab_top10.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/layout/tab_top10_dt.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/menu/drawer_view.xml" value="0.1554054054054054" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/menu/menu_item.xml" value="0.1554054054054054" />
+        <entry key="..\:/Users/admin/Desktop/DuAnMau1/DuAn1giaodienmoi/app/src/main/res/menu/menu_popup.xml" value="0.1554054054054054" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/drawable/bd_bt.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/drawable/bd_bt_blue_teal.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/drawable/bd_bt_green.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/drawable/bd_diag.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/drawable/bd_item.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/drawable/bd_view.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/drawable/boder.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/drawable/ic_launcher_person_foreground.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/drawable/ic_person.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/font/nunito.xml" value="0.24234234234234234" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/activity_forgot_pass.xml" value="0.264" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/activity_main.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/activity_splash_screen.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/diablog_dien_thoai.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/diablog_hang.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/diablog_hoa_don.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/diablog_hoa_don_chi_tiet.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/diablog_nhan_vien.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/fragment_dien_thoai.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/fragment_doanh_thu.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.264" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/fragment_hang.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/fragment_hoa_don.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/fragment_nhan_vien.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/fragment_top.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/items_hang.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/items_hoa_don.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/items_hoa_don_chi_tiet.xml" value="0.536" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/items_hoa_don_chi_tiet2.xml" value="0.152" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/items_nhan_vien.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/items_spinner_dien_thoai.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/items_spinner_hang.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/items_top.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/layout_navigation_header.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/layout/layout_toolbar.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/menu/drawer_view.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/menu/menu_popup.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_person.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/ngoct/Downloads/DuAn1Final2/DuAn1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_person_round.xml" value="0.12387387387387387" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

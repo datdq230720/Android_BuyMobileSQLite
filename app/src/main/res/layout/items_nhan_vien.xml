@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bd_item"
+    android:padding="10dp"
+    android:orientation="horizontal"
+    android:layout_margin="10dp"
+    android:clickable="false"
+    android:descendantFocusability="blocksDescendants"
+    android:focusable="false"
+    android:focusableInTouchMode="false">
+
+        <ImageView
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:id="@+id/items_iv_img"
+            android:layout_width="84dp"
+            android:layout_height="87dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="7"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/items_tv_hoTen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:fontFamily="@font/poppins"
+                android:text="Tên: Trương Nguyễn Yến Nhi"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/items_tv_maUser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:fontFamily="@font/poppins"
+                android:text="Mã: ynhi2002"
+                android:textColor="@color/purple_700"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/items_tv_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:fontFamily="@font/poppins"
+                android:text="Email: ynhitrg2002@gmail.com" />
+        </LinearLayout>
+
+
+</LinearLayout>

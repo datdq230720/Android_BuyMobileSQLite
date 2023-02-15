@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bd_item"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:orientation="horizontal"
+    android:layout_margin="10dp"
+    android:clickable="false"
+    android:descendantFocusability="blocksDescendants"
+    android:focusable="false"
+    android:focusableInTouchMode="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/items_hd_tv_ngay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:fontFamily="@font/poppins"
+            android:text="Ngày: 20/12/2020" />
+
+        <TextView
+            android:id="@+id/items_hd_tv_nv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:fontFamily="@font/poppins"
+            android:text="Trương Yến Nhi"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/items_hd_tv_kh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:fontFamily="@font/poppins"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:text="Quỳnh trang" />
+
+        <TextView
+            android:id="@+id/items_hd_tv_gia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:fontFamily="@font/poppins"
+            android:text="2,000,0000"
+            android:textColor="@color/red"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+</LinearLayout>

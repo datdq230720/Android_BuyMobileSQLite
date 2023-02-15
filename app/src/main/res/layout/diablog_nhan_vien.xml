@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bd_diag"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="@color/blue"
+        android:text="Nhân viên" />
+
+    <LinearLayout
+        android:background="@drawable/boder"
+        android:padding="20dp"
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/nv_diag_ed_ma"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/bd_view"
+            android:ems="10"
+            android:fontFamily="@font/poppins"
+            android:hint="Mã nhân viên"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:textSize="14sp" />
+<!--        <com.google.android.material.textfield.TextInputLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginLeft="5dp"-->
+<!--            android:layout_marginRight="5dp"-->
+<!--            app:passwordToggleEnabled="true"-->
+
+<!--            app:layout_constraintTop_toBottomOf="@+id/textView" >-->
+<!--            <EditText-->
+<!--                android:id="@+id/nv_diag_ed_mk"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:ems="10"-->
+<!--                android:inputType="textPassword"-->
+<!--                android:background="@drawable/bd_view"-->
+<!--                android:fontFamily="@font/poppins"-->
+<!--                android:hint="Nhập mật khẩu"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:textSize="14sp"/>-->
+<!--        </com.google.android.material.textfield.TextInputLayout>-->
+        <EditText
+            android:id="@+id/nv_diag_ed_mk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/bd_view"
+            android:ems="10"
+            android:fontFamily="@font/poppins"
+            android:hint="Mật khẩu"
+            android:inputType="textPassword"
+            android:padding="10dp"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/nv_diag_ed_hoTen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/bd_view"
+            android:ems="10"
+            android:fontFamily="@font/poppins"
+            android:hint="Họ và tên:"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/nv_diag_ed_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/bd_view"
+            android:ems="10"
+            android:fontFamily="@font/poppins"
+            android:hint="Email của bạn"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/nv_diag_iv"
+            android:layout_width="150dp"
+            android:layout_gravity="center"
+            android:layout_height="120dp"
+            android:padding="20dp"
+            android:src="@drawable/img"
+             />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/nv_diag_bt_save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/bd_bt_blue_teal"
+            android:fontFamily="@font/nunito"
+            android:text="Save"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/nv_diag_bt_reset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/bd_bt"
+            android:fontFamily="@font/nunito"
+            android:text="Reset"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+</LinearLayout>
